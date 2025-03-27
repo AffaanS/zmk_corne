@@ -94,8 +94,8 @@
         layer_2 {
             bindings = <
 &trans      &kp EXCLAMATION  &kp AT_SIGN       &kp HASH           &kp DOLLAR     &kp PERCENT                       &trans          &kp CARET  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans
-&trans      &trans           &kp C_PLAY_PAUSE  &kp C_VOLUME_UP    &kp PAGE_UP    &kp UNDERSCORE            &trans  &trans  &trans  &kp EQUAL  &kp HOME       &trans        &trans                &trans                 &kp BACKSLASH
-&kp K_MUTE  &trans           &kp K_PLAY_PAUSE  &kp C_VOLUME_DOWN  &kp PAGE_DOWN  &kp MINUS       &trans            &trans          &kp PLUS   &kp END        &trans        &trans                &trans                 &trans
+&trans      &trans           &kp C_PLAY_PAUSE  &kp C_VOLUME_UP    &kp PAGE_UP    &kp UNDERSCORE            &trans  &trans  &trans  &kp EQUAL  &kp HOME       &trans        &out OUT_USB          &out OUT_BLE           &kp BACKSLASH
+&kp K_MUTE  &trans           &kp K_PLAY_PAUSE  &kp C_VOLUME_DOWN  &kp PAGE_DOWN  &kp MINUS       &trans            &trans          &kp PLUS   &kp END        &trans        &trans                &bt BT_CLR_ALL         &trans
                                                &trans             &trans         &trans                                            &trans     &trans         &trans
             >;
         };
