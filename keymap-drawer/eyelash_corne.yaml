@@ -390,7 +390,7 @@ layers:
   - Gaming_2
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: QWERTY, h: toggle}
+  - {t: Gaming, h: toggle}
   - {t: '$$mdi:transfer$$', type: trans}
   Gaming_2:
   - $$mdi:keyboard-esc$$
