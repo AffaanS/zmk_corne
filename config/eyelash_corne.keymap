@@ -159,7 +159,7 @@
 &kp TAB     &kp Q  &kp W  &kp E      &kp R  &kp T                        &trans          &trans  &trans  &trans  &trans  &trans  &trans
 &kp LALT    &kp A  &kp S  &kp D      &kp F  &kp G                &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &kp LSHIFT  &kp Z  &kp X  &kp C      &kp V  &kp B      &trans            &trans          &trans  &trans  &trans  &trans  &trans  &trans
-                          &kp LCTRL  &mo 8  &kp SPACE                                    &trans  &tog 0  &trans
+                          &kp LCTRL  &mo 8  &kp SPACE                                    &trans  &tog 7  &trans
             >;
         };
 
