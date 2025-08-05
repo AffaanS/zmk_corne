@@ -398,7 +398,7 @@ layers:
   - W
   - '2'
   - {t: '0', s: )}
-  - $$mdi:volume-off$$
+  - PLAY PAUSE
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
